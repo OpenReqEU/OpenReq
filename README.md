@@ -21,25 +21,30 @@ The OpenReq project gathers together both academic and industrial partners looki
 
 - [HITeC e.V.](https://hitec-hamburg.de) is the technology transfer centre of the Department of Informatics at the University of Hamburg. Since 1997, HITEC provides professional services to the department and to public and commercial organizations. In particular, it conducts R&D cooperation with companies, presents, customizes, and disseminates the research results of the university.
 
-- [Graz Technical Unoversity]() is represented by the Applied Software Engineering group at the Institute for Software Technology (IST). Our areas of expertise are recommender systems, model-based diagnosis and repair, configuration of complex products and services, and group decision making.
+- [Graz Technical Unoversity](http://ase.ist.tugraz.at/ASE/) is represented by the Applied Software Engineering group at the Institute for Software Technology (IST). Our areas of expertise are recommender systems, model-based diagnosis and repair, configuration of complex products and services, and group decision making.
 
-- [ENG Ingegneria Informatica]() is the largest Software and Information Technology services group in Italy. The Group mission is to design, develop and deliver innovative information systems and solutions for medium to large scale clients, involves over 1.000 clients in Europe and worldwide, with increasing overseas market activities.
+- [ENG Ingegneria Informatica](https://www.eng.it/) is the largest Software and Information Technology services group in Italy. The Group mission is to design, develop and deliver innovative information systems and solutions for medium to large scale clients, involves over 1.000 clients in Europe and worldwide, with increasing overseas market activities.
 
-- [Universidad Politecnica de Catalunya]() is represented by the ESSI research group (Department of Service and Information System Engineering) which is one of the newest UPC departments. Its members conduct research in many fields of software, service and data engineering. In relation with the project, we mention requirements engineering, risk management, and software quality.
+- [Universidad Politecnica de Catalunya](https://gessi.upc.edu/en) is represented by the GESSI research group (Department of Service and Information System Engineering) which is one of the newest UPC departments. Its members conduct research in many fields of software, service and data engineering. In relation with the project, we mention requirements engineering, risk management, and software quality.
 
-- [vogella GmbH]() is a German company based in Hamburg which provides services ranging from technology development, production and developer support, training and mentoring in the area of Eclipse and Android.
+- [vogella GmbH](http://vogella.com/) is a German company based in Hamburg which provides services ranging from technology development, production and developer support, training and mentoring in the area of Eclipse and Android.
 Within our open source activities, our employees are actively involved in the Eclipse IDE Project.
 
-- [Siemens AG Österreich]() is a global powerhouse focusing on the areas of electrification, automation, and digitalization. One of the world’s largest producers of energy-efficient, resource-saving technologies, Siemens is a leading supplier of systems for power generation and transmission as well as medical diagnosis.
+- [Siemens AG Österreich](https://www.siemens.com/at/de/home.html) is a global powerhouse focusing on the areas of electrification, automation, and digitalization. One of the world’s largest producers of energy-efficient, resource-saving technologies, Siemens is a leading supplier of systems for power generation and transmission as well as medical diagnosis.
 
-- [University of Helsinki]() is represented by the Empirical Software Engineering Helsinki (ESEH, prof. Männistö) research group. The group addresses software engineering research problems and challenges with industrial relevance, including product requirements and software architecture, software intensive services and (software) product variability in particular from the perspectives of requirements engineering.
+- [University of Helsinki](https://www.helsinki.fi/en/researchgroups/empirical-software-engineering) is represented by the Empirical Software Engineering Helsinki (ESEH, prof. Männistö) research group. The group addresses software engineering research problems and challenges with industrial relevance, including product requirements and software architecture, software intensive services and (software) product variability in particular from the perspectives of requirements engineering.
 
-- [The Qt Company]() is responsible for all Qt activities including product development, commercial and open source licensing together with the Qt project under the open governance model. Together with our licensing, support and services capabilities, we operate with the mission to work closely with developers to ensure that their Qt projects are deployed on time, within budget and with a competitive advantage.
+- [The Qt Company](http://qt.com/) is responsible for all Qt activities including product development, commercial and open source licensing together with the Qt project under the open governance model. Together with our licensing, support and services capabilities, we operate with the mission to work closely with developers to ensure that their Qt projects are deployed on time, within budget and with a competitive advantage.
 
-- [WindTre Italia S.p.a.]() is part of the CK group Hutchison Holdings Limited (CK Hutchison). WindTre is leader in the development of new generation mobile technologies, having relationships with GSMA and main standardization bodies like 3GPP and IETF. 
+- [WindTre Italia S.p.a.](http://www.windtre.it/) is part of the CK group Hutchison Holdings Limited (CK Hutchison). WindTre is leader in the development of new generation mobile technologies, having relationships with GSMA and main standardization bodies like 3GPP and IETF. 
 
 # Components
+### [Liquid Democracy for requirements engineering](https://github.com/OpenReqEU/gds-edemocracy) 
+Some stakeholders (such as end-users of a product or service) are often not included in the decision-making process, for example, regarding the features to be included in a future release. We provide a platform where a crowd interested in a product can vote for the inclusion of new features through a system of delegated voting. 
 
 # Contributing
+TBD
 
 # Contacts
+ For problems regarding the services, please open an issue in the service repository.  
+ You can contact us at [info@openreq.eu](mailto:info@openreq.eu)
