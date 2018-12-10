@@ -21,7 +21,7 @@ The OpenReq project gathers together both academic and industrial partners looki
 
 - [HITeC e.V.](https://hitec-hamburg.de) is the technology transfer centre of the Department of Informatics at the University of Hamburg. Since 1997, HITEC provides professional services to the department and to public and commercial organizations. In particular, it conducts R&D cooperation with companies, presents, customizes, and disseminates the research results of the university.
 
-- [Graz Technical Unoversity](http://ase.ist.tugraz.at/ASE/) is represented by the Applied Software Engineering group at the Institute for Software Technology (IST). Our areas of expertise are recommender systems, model-based diagnosis and repair, configuration of complex products and services, and group decision making.
+- [Graz Technical University](http://ase.ist.tugraz.at/ASE/) is represented by the Applied Software Engineering group at the Institute for Software Technology (IST). Our areas of expertise are recommender systems, model-based diagnosis and repair, configuration of complex products and services, and group decision making.
 
 - [ENG Ingegneria Informatica](https://www.eng.it/) is the largest Software and Information Technology services group in Italy. The Group mission is to design, develop and deliver innovative information systems and solutions for medium to large scale clients, involves over 1.000 clients in Europe and worldwide, with increasing overseas market activities.
 
