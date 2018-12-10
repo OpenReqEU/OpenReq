@@ -21,4 +21,6 @@ The OpenReq project gathers together both academic and industrial partners looki
 
 # Components
 
+# Contributing
+
 # Contacts
