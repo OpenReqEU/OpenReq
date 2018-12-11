@@ -39,8 +39,10 @@ Within our open source activities, our employees are actively involved in the Ec
 - [WindTre Italia S.p.a.](http://www.windtre.it/) is part of the CK group Hutchison Holdings Limited (CK Hutchison). WindTre is leader in the development of new generation mobile technologies, having relationships with GSMA and main standardization bodies like 3GPP and IETF. 
 
 # Components
-### [Liquid Democracy for requirements engineering](https://github.com/OpenReqEU/gds-edemocracy) 
-Some stakeholders (such as end-users of a product or service) are often not included in the decision-making process, for example, regarding the features to be included in a future release. We provide a set of APIs for delegated voting that a crowd interested in a product can use to decide about inclusion of new features. 
+
+| ID | Name | Description | Work package | Lead team |
+| ---| ---- | ----------- | -------------| ----------|
+| [gds-edemocracy](https://github.com/OpenReqEU/gds-edemocracy) | Liquid Democracy for requirements engineering | Some stakeholders (such as end-users of a product or service) are often not included in the decision-making process, for example, regarding the features to be included in a future release. We provide a set of APIs for delegated voting that a crowd interested in a product can use to decide about inclusion of new features | WP4 | HITeC | 
 
 # Contributing
 TBD
