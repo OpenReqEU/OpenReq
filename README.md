@@ -40,7 +40,7 @@ Within our open source activities, our employees are actively involved in the Ec
 
 # Components
 
-| ID | Name | Description | Lead team | Deliverable |
+| ID | Name | Description | Lead team | Project deliverable |
 | ---| ---- | ----------- | :-------------:| :----------:|
 | [gds-edemocracy](https://github.com/OpenReqEU/gds-edemocracy) | Liquid Democracy for requirements engineering | Some stakeholders (such as end-users of a product or service) are often not included in the decision-making process, for example, regarding the features to be included in a future release. We provide a set of APIs for delegated voting that a crowd interested in a product can use to decide about inclusion of new features. | HITeC | [DX.X]() |
 
