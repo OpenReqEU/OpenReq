@@ -1,4 +1,4 @@
-# Contribution Guidelines for OpenReq
+# OpenReq Contribution Guidelines
 
 The OpenReq project is a research project funded by the European Union Horizon 2020 Research and Innovation programme under grant agreement No 732463.
 
