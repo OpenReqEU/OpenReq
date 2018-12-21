@@ -1,3 +1,3 @@
 This is the contributing template
 
-Needs to be updated!
+Needs to be updated
