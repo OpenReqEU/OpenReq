@@ -1,13 +1,13 @@
-# Contribution Guidelines for OpenReq
+# Contribution Guidelines for OpenReq
 
 The OpenReq project is a research project funded by the European Union Horizon 2020 Research and Innovation programme under grant agreement No 732463.
 
 This guideline will explain how to report bugs and how to submit contributions with pull requests to the open source components of the project.
 
-## Submitting an issue report
+## Submitting an issue report
 If you have found a bug or would like to request a new feature, please open a new issue report in the ‘Issues’ section of the corresponding GitHub repository.
 
-### How to create an issue
+### How to create an issue
 Your issue should include at least the following information:
 - Your operating system,
 - If you report a bug, please include steps to reproduce it. Please add a step by step documentation and screenshots if applicable.
@@ -17,22 +17,22 @@ Before submitting a new issue:
 - Please make sure that you’re using the latest version of the component. 
 - It would be very much appreciated if you would search the project bug tracker to avoid creating a duplicate issue.
 
-## Code contributions
+## Code contributions
 If you want to contribute to the project by integrating a new feature or fixing a bug, please take into account the following points.
 
-### Licensing of contributions
+### Licensing of contributions
 Everything included in a contribution to the OpenReq open source project, such as source code, documents, images, etc. is considered licensed under the same terms as the rest of the OpenReq project. The OpenReq project is licensed under EPL 2.0.  
 Copyright/license headers are not desired. Please don’t add your own copyright headers to new or changed files.
 
-### Version control branching
+### Version control branching
 Always create a new feature branch for your code contribution. Changes should be focused, please don’t submit unrelated changes in the same branch/pull request.
 
 Bug fixes should be based on the source code available on the master branch of the repository you are contributing to.
 
-### Code formatting
+### Code formatting
 Please follow the code style used in the repository.
 
-### Tests
+### Tests
 If you develop new functionality, it would be helpful to include test cases in the change you submit.
 
 ### Creating pull requests
