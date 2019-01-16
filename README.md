@@ -42,7 +42,7 @@ Within our open source activities, our employees are actively involved in the Ec
 
 | ID | Name | Description | Lead team | Project deliverable |
 | ---| ---- | ----------- | :-------------:| :----------:|
-| [gds-edemocracy](https://github.com/OpenReqEU/gds-edemocracy) | Liquid Democracy for requirements engineering | Some stakeholders (such as end-users of a product or service) are often not included in the decision-making process, for example, regarding the features to be included in a future release. We provide a set of APIs for delegated voting that a crowd interested in a product can use to decide about inclusion of new features. | HITeC | [D4.3 - Group Decision Engine Version 2]() |
+| [analytics-backend](https://github.com/OpenReqEU/analytics-backend) | | ENG | [D2.2 - Requirements Intelligence Engine Version 1]() |
 |[requirement-patterns](https://github.com/OpenReqEU/requirement-patterns) | PABRE-WS | This services is used to store a catalogue of requirement patterns | UPC | [D5.3 - OpenReq Ontologies and Patterns Catalogue]() |
 |[openreq-ontology](https://github.com/OpenReqEU/openreq-ontology) | OpenReq ontology | This is a specification of data in the form of JSON schema. | UH  | [D5.3 - OpenReq Ontologies and Patterns Catalogue]() |
 
