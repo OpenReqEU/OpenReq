@@ -43,6 +43,9 @@ Within our open source activities, our employees are actively involved in the Ec
 | ID | Name | Description | Lead team | Project deliverable |
 | ---| ---- | ----------- | :-------------:| :----------:|
 | [analytics-backend](https://github.com/OpenReqEU/analytics-backend) | Analytics Backend | Description needed | ENG | [D2.2 - Requirements Intelligence Engine Version 1]() |
+| [prs-improving-requirements-quality-features](https://github.com/OpenReqEU/prs-improving-requirements-quality-features) | Improving Requirements Quality Features | Description needed | ENG | [D3.2 - Recommender Engine Version 1]() |
+| [update-manager](https://github.com/OpenReqEU/update-manager) | Update Manager | Description needed | ENG | [D2.2 Requirements Intelligence Engine Version 1]() |
+| [prs-improving-requirements-quality](https://github.com/OpenReqEU/prs-improving-requirements-quality) | Requirements Quality Improvement | Description needed | HITeC | [D3.2 - Recommender Engine Version 1]() |
 |[requirement-patterns](https://github.com/OpenReqEU/requirement-patterns) | PABRE-WS | This services is used to store a catalogue of requirement patterns | UPC | [D5.3 - OpenReq Ontologies and Patterns Catalogue]() |
 |[openreq-ontology](https://github.com/OpenReqEU/openreq-ontology) | OpenReq ontology | This is a specification of data in the form of JSON schema. | UH  | [D5.3 - OpenReq Ontologies and Patterns Catalogue]() |
 
