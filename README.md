@@ -57,7 +57,7 @@ Within our open source activities, our employees are actively involved in the Ec
 | [ri-logging](https://github.com/OpenReqEU/ri-logging) | UI interactions collector  | Description needed | HITeC | [D3.2 - Recommender Engine Version 1]() |
 | [ri-orchestration-app](https://github.com/OpenReqEU/ri-orchestration-app) | Google Play orchestrator | Description needed | HITeC | [D2.2 - Requirements Intelligence Engine Version 1]() |
 | [ri-orchestration-twitter](https://github.com/OpenReqEU/ri-orchestration-twitter) | Twitter orchestrator | Description needed | HITeC | [D3.2 - Recommender Engine Version 1]() |
-| [ri-storage-app](https://github.com/OpenReqEU/ri-storage-app) | Google Play storage | Description needed | | [D2.2 - Requirements Intelligence Engine Version 1]() |
+| [ri-storage-app](https://github.com/OpenReqEU/ri-storage-app) | Google Play storage | Description needed | HITeC | [D2.2 - Requirements Intelligence Engine Version 1]() |
 | [ri-storage-twitter](https://github.com/OpenReqEU/ri-storage-twitter) | Twitter storage | Description needed | HITeC | [D2.2 - Requirements Intelligence Engine Version 1]() |
 | [ri-visualization](https://github.com/OpenReqEU/ri-visualization) | Feedback visualization | Description needed | HITeC | [D2.3 -  Requirements Intelligence Engine Version 2]() |
 | [qthulhu](https://github.com/OpenReqEU/qthulhu) | Requirements dependencies visualization | Description needed | Qt | [D5.2 - Requirements Dependency Engine Version 1]() |
@@ -68,12 +68,12 @@ Within our open source activities, our employees are actively involved in the Ec
 | [openreq-live](https://github.com/OpenReqEU/openreq-live) | OpenReq Live web application | Description needed | TUGraz | [D5.2 - Requirements Dependency Engine Version 1]() |
 | [similar-related-requirements-recommender](https://github.com/OpenReqEU/similar-related-requirements-recommender) | Related requirements recommender | Description needed | TUGraz | [D5.2 - Requirements Dependency Engine Version 1]() |
 | [twitter-extraction](https://github.com/OpenReqEU/twitter-extraction) | Twitter Extraction | Description needed | TUGraz | []() |
-| [keljucaas](https://github.com/OpenReqEU/keljucaas) | | Description needed | | []() |
-| [kumbang-core](https://github.com/OpenReqEU/kumbang-core) | | Description needed | | []() |
-| [mallikas](https://github.com/OpenReqEU/mallikas) | | Description needed | | []() |
-| [milla](https://github.com/OpenReqEU/milla) | | Description needed | | []() |
-| [mulperi](https://github.com/OpenReqEU/mulperi) | | Description needed | | []() |
-| [springcaas](https://github.com/OpenReqEU/springcaas) | | Description needed | | []() |
+| [keljucaas](https://github.com/OpenReqEU/keljucaas)| Proper name needed | Description needed | UH | []() |
+| [kumbang-core](https://github.com/OpenReqEU/kumbang-core) | Proper name needed | Description needed | UH | []() |
+| [mallikas](https://github.com/OpenReqEU/mallikas) | Proper name needed | Description needed | UH| []() |
+| [milla](https://github.com/OpenReqEU/milla) | Proper name needed | Description needed | UH | []() |
+| [mulperi](https://github.com/OpenReqEU/mulperi) | Proper name needed | Description needed | UH | []() |
+| [springcaas](https://github.com/OpenReqEU/springcaas) | Proper name needed | Description needed | UH | []() |
 | [conformance-to-templates](https://github.com/OpenReqEU/conformance-to-templates) | Conformance to requirements template checker | Description needed | UPC | [D3.2 - Recommender Engine Version 1]() |
 | [cross-reference-detection](https://github.com/OpenReqEU/cross-reference-detection) | Cross reference detection | Description needed | UPC | []() |
 | [dependency-detection](https://github.com/OpenReqEU/dependency-detection) | Requirements dependency detection | Description needed | UPC | []() |
