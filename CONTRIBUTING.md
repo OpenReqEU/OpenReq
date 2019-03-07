@@ -35,7 +35,7 @@ Please follow the code style used in the repository.
 ### Tests
 If you develop new functionality, it would be helpful to include test cases in the change you submit.
 
-### Creating pull requests
+### Creating pull requests
 Here you find an example of how to create a pull request (PR) to integrate your contribution into the project repository.
 
 **Clone the repo**   
