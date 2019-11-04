@@ -85,6 +85,9 @@ Within our open source activities, our employees are actively involved in the Ec
 | ------------------------------------------------------- | -------------------------------------------------------------------------------------- | :-------: |
 | [GitHub Issues Labeller (server)](https://github.com/OpenReqEU/github-issue-labeler-integration-server)                                      | The integration server for the GitHub automatic issue labeler built for OpenReq |    ApuliaSoft    |
 | [GitHub Issues Labeller (client)](https://github.com/OpenReqEU/github-issue-labeler-chrome-extension)                                      | The Chrome Extension for the GitHub automatic issue labeler built for OpenReq |    ApuliaSoft    |
+| [OpenReq for Citizen Science Webapp](https://github.com/Ibercivis/EOCS_Web)                                      | A web application that implements some of the OpenReq microservices for Citizen Science projects |    IberCivis    |
+| [OpenReq for Citizen Science (server)](https://github.com/Ibercivis/EOCS_Backend)                                      | Backend for a web application that implements some of the OpenReq microservices for Citizen Science projects |    IberCivis    |
+| [OpenReq for Citizen Science (containers)](https://github.com/Ibercivis/EOCS_Multicontainer)                                      | Containers for backend and web application that implement some of the OpenReq microservices for Citizen Science projects |    IberCivis    |
 
 # Contributing
 See the OpenReq Contribution Guidelines [here](https://github.com/OpenReqEU/OpenReq/blob/master/CONTRIBUTING.md).
