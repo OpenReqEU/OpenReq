@@ -81,8 +81,8 @@ Within our open source activities, our employees are actively involved in the Ec
 | [doors-integration](https://github.com/OpenReqEU/doors-integration-scripts) | DOORS Integration Scripts                               | These scripts export requirements from IBM DOORS and write changes made with OpenReq services back into IBM DOORS.       |  SIEMENS  |    [D6.4 OPENREQ-Aware (commercial) requirements tool]()      |
 
 # Components by Open Call contributors
-| Name                                                    | Description                                                                            | Company |
-| ------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------- | -------------------------------------------------------------------------------------- | :-------: |
+| Name | Description| Company |
+| ------------------------------------------------------- | -------------------------------------------------------------------------------------- | :-------: |
 | [GitHub Issues Labeller (server)](https://github.com/OpenReqEU/github-issue-labeler-integration-server)                                      | The integration server for the GitHub automatic issue labeler built for OpenReq |    ApuliaSoft    |
 
 # Contributing
