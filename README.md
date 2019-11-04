@@ -38,7 +38,7 @@ Within our open source activities, our employees are actively involved in the Ec
 
 - [WindTre Italia S.p.a.](http://www.windtre.it/) is part of the CK group Hutchison Holdings Limited (CK Hutchison). WindTre is leader in the development of new generation mobile technologies, having relationships with GSMA and main standardization bodies like 3GPP and IETF.
 
-# Components
+# Components by OpenReq consortium
 
 | ID                                                                                                                                    | Name                                                    | Description                                                                            | Lead team |                  Project deliverable                   |
 | ------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------- | -------------------------------------------------------------------------------------- | :-------: | :----------------------------------------------------: |
@@ -79,6 +79,11 @@ Within our open source activities, our employees are actively involved in the Ec
 | [eclipse-plugin](https://github.com/OpenReqEU/eclipse-plugin)                                                                         | OpenReq Eclipse plugin                                  | This service is an Eclipse Plug-in for a personalized prioritized list of Bugzilla Bugs.    |  vogella  |    [D6.3 OpenReq-Aware issue tracker]()       |
 | [eclipse-plugin-server](https://github.com/OpenReqEU/eclipse-plugin-server)                                                           | OpenReq Eclipse plugin server                           | This service will delivered a list of the most discussed bugs of the last 30 days.       |  vogella  |    [D6.3 OpenReq-Aware issue tracker]()      |
 | [doors-integration](https://github.com/OpenReqEU/doors-integration-scripts) | DOORS Integration Scripts                               | These scripts export requirements from IBM DOORS and write changes made with OpenReq services back into IBM DOORS.       |  SIEMENS  |    [D6.4 OPENREQ-Aware (commercial) requirements tool]()      |
+
+# Components by Open Call contributors
+| Name                                                    | Description                                                                            | Company |
+| ------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------- | -------------------------------------------------------------------------------------- | :-------: |
+| [GitHub Issues Labeller (server)](https://github.com/OpenReqEU/github-issue-labeler-integration-server)                                      | The integration server for the GitHub automatic issue labeler built for OpenReq |    ApuliaSoft    |
 
 # Contributing
 See the OpenReq Contribution Guidelines [here](https://github.com/OpenReqEU/OpenReq/blob/master/CONTRIBUTING.md).
