@@ -84,6 +84,7 @@ Within our open source activities, our employees are actively involved in the Ec
 | Name | Description| Company |
 | ------------------------------------------------------- | -------------------------------------------------------------------------------------- | :-------: |
 | [GitHub Issues Labeller (server)](https://github.com/OpenReqEU/github-issue-labeler-integration-server)                                      | The integration server for the GitHub automatic issue labeler built for OpenReq |    ApuliaSoft    |
+| [GitHub Issues Labeller (client)](https://github.com/OpenReqEU/github-issue-labeler-chrome-extension)                                      | The Chrome Extension for the GitHub automatic issue labeler built for OpenReq |    ApuliaSoft    |
 
 # Contributing
 See the OpenReq Contribution Guidelines [here](https://github.com/OpenReqEU/OpenReq/blob/master/CONTRIBUTING.md).
