@@ -88,6 +88,7 @@ Within our open source activities, our employees are actively involved in the Ec
 | [OpenReq for Citizen Science Webapp](https://github.com/OpenReqEU/EOCS_Web)                                      | A web application that implements some of the OpenReq microservices for Citizen Science projects |    IberCivis    |
 | [OpenReq for Citizen Science (server)](https://github.com/OpenReqEU/EOCS_Backend)                                      | Backend for a web application that implements some of the OpenReq microservices for Citizen Science projects |    IberCivis    |
 | [OpenReq for Citizen Science (containers)](https://github.com/OpenReqEU/EOCS_Multicontainer)                                      | Containers for backend and web application that implement some of the OpenReq microservices for Citizen Science projects |    IberCivis    |
+| [OpenReq for SMEs](https://github.com/OpenReqEU/censio)                                      | OpenReq for Small and Medium-sized Enterprises is smart platform that supports users in the management of tasks and requirements. |    SelectionArts    |
 
 # Contributing
 See the OpenReq Contribution Guidelines [here](https://github.com/OpenReqEU/OpenReq/blob/master/CONTRIBUTING.md).
