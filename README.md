@@ -89,6 +89,7 @@ Within our open source activities, our employees are actively involved in the Ec
 | [OpenReq for Citizen Science (server)](https://github.com/OpenReqEU/EOCS_Backend)                                      | Backend for a web application that implements some of the OpenReq microservices for Citizen Science projects |    IberCivis    |
 | [OpenReq for Citizen Science (containers)](https://github.com/OpenReqEU/EOCS_Multicontainer)                                      | Containers for backend and web application that implement some of the OpenReq microservices for Citizen Science projects |    IberCivis    |
 | [OpenReq for SMEs](https://github.com/OpenReqEU/censio)                                      | OpenReq for Small and Medium-sized Enterprises is smart platform that supports users in the management of tasks and requirements. |    SelectionArts    |
+| [Issues categorization (FR)](https://github.com/OpenReqEU/ORAW2-issue-weight)                                      | An adaptation of rationale-miner to the French language to characterize Redmine issues |  AlterWay    |
 
 # Contributing
 See the OpenReq Contribution Guidelines [here](https://github.com/OpenReqEU/OpenReq/blob/master/CONTRIBUTING.md).
