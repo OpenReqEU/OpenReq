@@ -89,7 +89,13 @@ Within our open source activities, our employees are actively involved in the Ec
 | [OpenReq for Citizen Science (server)](https://github.com/OpenReqEU/EOCS_Backend)                                      | Backend for a web application that implements some of the OpenReq microservices for Citizen Science projects |    IberCivis    |
 | [OpenReq for Citizen Science (containers)](https://github.com/OpenReqEU/EOCS_Multicontainer)                                      | Containers for backend and web application that implement some of the OpenReq microservices for Citizen Science projects |    IberCivis    |
 | [OpenReq for SMEs](https://github.com/OpenReqEU/censio)                                      | OpenReq for Small and Medium-sized Enterprises is smart platform that supports users in the management of tasks and requirements. |    SelectionArts    |
-| [Issues categorization (FR)](https://github.com/OpenReqEU/ORAW2-issue-weight)                                      | An adaptation of rationale-miner to the French language to characterize Redmine issues |  AlterWay    |
+| [Redmine plugin](https://github.com/OpenReqEU/OpenReq-redmine)   | OpenReq Redmine plugin which supports the components below |  AlterWay    |
+| [Issues categorization)](https://github.com/OpenReqEU/ORAW2-issue-weight)                                      | An adaptation of rationale-miner to the French language to characterize Redmine issues. Supports French language |  AlterWay    |
+| [Finding missing information in issue (FR)](https://github.com/OpenReqEU/ORAW3-missing-features)                                      | Automatically assign to an issue labels regarding its urgence and category. Supports French language |  AlterWay    |
+| [Domain Type](https://github.com/OpenReqEU/ORAW4-domain-type)   | Automatically assign a domain to an issue. Supports French language |  AlterWay    |
+| [Find related issues](https://github.com/OpenReqEU/ORAW5-issue-comparison)   | Automatically find issues related to an existing one. Supports French language|  AlterWay    |
+
+
 
 # Contributing
 See the OpenReq Contribution Guidelines [here](https://github.com/OpenReqEU/OpenReq/blob/master/CONTRIBUTING.md).
